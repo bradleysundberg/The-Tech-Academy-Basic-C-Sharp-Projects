@@ -11,6 +11,9 @@ namespace ConstructorChainingDemo
         // First constructor that accepts only a name
         // Sets default age and forwards to the second constructor
         public Person(string name) : this(name, 18)
+        {
+            // No additional logic needed here
+        }
 
         // Second constructor that accepts both name and age
         public Person(string name, int age)
