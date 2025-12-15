@@ -28,3 +28,6 @@ This repository contains basic C# projects created as part of The Tech Academy's
 * [TextAppender](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TextAppender)
 * [TimeCalculatorApp](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TimeCalculatorApp)
 * [TryCatchExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TryCatchExample)
+
+# AbstractClassExample
+Demonstrates how to define and use abstract classes and methods in C#. Shows how base class behavior can be shared and overridden by derived classes to build polymorphic applications.
