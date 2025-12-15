@@ -33,7 +33,7 @@ This repository contains basic C# projects created as part of The Tech Academy's
 This project shows how abstract classes work in C#. It explains how a base class can require that derived classes implement specific methods.
 
 # Anonymous Income Comparison Program
-A console app that asks for information about two people’s jobs and compares how much money they make in a year.
+A console app that asks for information about two people's jobs and compares how much money they make in a year.
 
 # ArrayAndListSelectionApp
 This program demonstrates the use of arrays and lists. It allows users to select items from a collection and illustrates how data can be stored and accessed.
@@ -42,10 +42,10 @@ This program demonstrates the use of arrays and lists. It allows users to select
 A simple program that practices Boolean logic by comparing values and printing true or false results.
 
 # CallingMethodsExample
-This project demonstrates how methods are defined and invoked in C#, including passing values to methods and receiving results.
+This project demonstrates how methods are defined and invoked in C#, including how to pass values to methods and receive results.
 
 # Car Insurance Approval Program
-A basic insurance qualification app that checks a user’s age and driving history to determine whether they qualify for insurance.
+A basic insurance qualification app that checks a user's age and driving history to determine whether they qualify for insurance.
 
 # CarInsurance
 This project builds on the insurance idea and uses classes to represent insurance data. It demonstrates how objects are created and used together.
@@ -102,4 +102,4 @@ Demonstrates how to write text to a file and append new data without overwriting
 A program that asks the user for a number and calculates what the time will be after a certain number of hours.
 
 # TryCatchExample
-This project demonstrates how to use try-catch blocks to prevent a program from crashing due to invalid input or errors.
+This example demonstrates how to use try-catch blocks to prevent a program from crashing due to invalid input or errors.
