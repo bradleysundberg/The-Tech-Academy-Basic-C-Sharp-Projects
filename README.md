@@ -78,7 +78,7 @@ Demonstrates how the Main method works and how values can be passed into a progr
 A simple math application that performs basic arithmetic operations using methods in a separate class.
 
 # MethodExample
-This project focuses on developing and applying methods to organize code and avoid repetition.
+This example focuses on developing and applying methods for organizing code and avoiding repetition.
 
 # OperatorOverloadDemo
 Demonstrates how operators like "+" can be customized to work with user-defined classes.
