@@ -30,4 +30,76 @@ This repository contains basic C# projects created as part of The Tech Academy's
 * [TryCatchExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TryCatchExample)
 
 # AbstractClassExample
-Demonstrates how to define and use abstract classes and methods in C#. Shows how base class behavior can be shared and overridden by derived classes to build polymorphic applications.
+This project shows how abstract classes work in C#. It explains how a base class can require that derived classes implement specific methods.
+
+# Anonymous Income Comparison Program
+A console app that asks for information about two people’s jobs and compares how much money they make in a year.
+
+# ArrayAndListSelectionApp
+This program demonstrates the use of arrays and lists. It allows users to select items from a collection and illustrates how data can be stored and accessed.
+
+# Boolean Comparison Program
+A simple program that practices Boolean logic by comparing values and printing true or false results.
+
+# CallingMethodsExample
+This project demonstrates how methods are defined and invoked in C#, including passing values to methods and receiving results.
+
+# Car Insurance Approval Program
+A basic insurance qualification app that checks a user’s age and driving history to determine whether they qualify for insurance.
+
+# CarInsurance
+This project builds on the insurance idea and uses classes to represent insurance data. It demonstrates how objects are created and used together.
+
+# CodeFirstNewDatabaseSample
+An example of creating a database using code. Models are written first and used to generate a database structure.
+
+# ConsoleApp
+A basic console application used to practice C# fundamentals like input, output, and program structure.
+
+# ConstructorChainingDemo
+This project demonstrates constructor chaining, in which one constructor calls another to reuse code and simplify class initialization.
+
+# DivisionExample
+A simple math program that performs division and includes error handling for invalid input or division by zero.
+
+# IQuittable
+This project demonstrates how interfaces work in C#. A class implements an interface and provides its own version of the required method.
+
+# InheritanceExample
+An example of class inheritance that shows how one class can inherit properties and methods from another.
+
+# LambdaDemo
+This project introduces lambda expressions and demonstrates how they can be used to write shorter, cleaner code when working with collections.
+
+# MainMethodExample
+Demonstrates how the Main method works and how values can be passed into a program when it starts.
+
+# MathOpsExample
+A simple math application that performs basic arithmetic operations using methods in a separate class.
+
+# MethodExample
+This project focuses on developing and applying methods to organize code and avoid repetition.
+
+# OperatorOverloadDemo
+Demonstrates how operators like "+" can be customized to work with user-defined classes.
+
+# ParsingEnumsDemo
+Shows how to convert enum values to and from strings or numbers in a readable and straightforward way.
+
+# Shipping Quote Program
+A console app that calculates a shipping quote based on package size and weight entered by the user.
+
+# StringBuilder Demo
+This project demonstrates how to use the StringBuilder class to manipulate strings efficiently.
+
+# Student Daily Report
+A console program that collects information from a student, such as course progress and study time, and displays a summary.
+
+# TextAppender
+Demonstrates how to write text to a file and append new data without overwriting existing content.
+
+# TimeCalculatorApp
+A program that asks the user for a number and calculates what the time will be after a certain number of hours.
+
+# TryCatchExample
+This project demonstrates how to use try-catch blocks to prevent a program from crashing due to invalid input or errors.
