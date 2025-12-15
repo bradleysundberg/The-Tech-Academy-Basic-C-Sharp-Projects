@@ -4,27 +4,27 @@ This repository contains basic C# projects created as part of The Tech Academy's
 
 # Projects:
 * [AbstractClassExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/AbstractClassExample)
-* Anonymous Income Comparison Program
-* ArrayAndListSelectionApp
-* Boolean Comparison Program
-* CallingMethodsExample
-* Car Insurance Approval Program
-* CarInsurance
-* CodeFirstNewDatabaseSample
-* ConsoleApp
-* ConstructorChainingDemo
-* DivisionExample
-* IQuittable
-* InheritanceExample
-* LambdaDemo
-* MainMethodExample
-* MathOpsExample
-* MethodExample
-* OperatorOverloadDemo
-* ParsingEnumsDemo
-* Shipping Quote Program
-* StringBuilder Demo
-* Student Daily Report
-* TextAppender
-* TimeCalculatorApp
-* TryCatchExample
+* [Anonymous Income Comparison Program](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Anonymous%20Income%20Comparison%20Program)
+* [ArrayAndListSelectionApp](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ArrayAndListSelectionApp)
+* [Boolean Comparison Program](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Boolean%20Comparison%20Program)
+* [CallingMethodsExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CallingMethodsExample)
+* [Car Insurance Approval Program](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Car%20Insurance%20Approval%20Program)
+* [CarInsurance](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
+* [CodeFirstNewDatabaseSample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CodeFirstNewDatabaseSample)
+* [ConsoleApp](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ConsoleApp)
+* [ConstructorChainingDemo](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ConstructorChainingDemo)
+* [DivisionExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/DivisionExample)
+* [IQuittable](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/IQuittable)
+* [InheritanceExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/InheritanceExample)
+* [LambdaDemo](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/LambdaDemo)
+* [MainMethodExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/MainMethodExample)
+* [MathOpsExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/MathOpsExample)
+* [MethodExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/MethodExample)
+* [OperatorOverloadDemo](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/OperatorOverloadDemo)
+* [ParsingEnumsDemo](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ParsingEnumsDemo)
+* [Shipping Quote Program](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Shipping%20Quote%20Program)
+* [StringBuilder Demo](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/StringBuilder%20Demo)
+* [Student Daily Report](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Student%20Daily%20Report)
+* [TextAppender](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TextAppender)
+* [TimeCalculatorApp](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TimeCalculatorApp)
+* [TryCatchExample](https://github.com/bradleysundberg/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TryCatchExample)
